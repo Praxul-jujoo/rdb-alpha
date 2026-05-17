@@ -175,3 +175,4 @@ rm project
 ls --color=auto
 mkdir website
 ls --color=auto
+cd website
