@@ -174,3 +174,4 @@ mkdir project
 rm project
 ls --color=auto
 mkdir website
+ls --color=auto
